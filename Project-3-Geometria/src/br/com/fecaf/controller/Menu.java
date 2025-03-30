@@ -199,7 +199,7 @@ public class Menu {
                                 System.out.println("Escolha uma opção válida...");
                         }
 
-                    }
+                    }break;
                     case 4:
                     System.out.println("Saindo....");
                     exit = true;
